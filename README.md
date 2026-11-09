@@ -2,8 +2,7 @@
 # For questions please contact Omid Kardan omidk@med.umich.edu
 # Scripts by Omid Kardan and Kathryn Schertz
 
-# Section1: Scripts to count alcohol and cannabis outlets in the SAfeGraph POI data (skip to section 3 if you don't have 
-# SafeGraph data access (for example subscription to Deweydata.org)
+# Section1: Scripts to count alcohol and cannabis outlets in the SAfeGraph POI data (skip to section 3 if you don't have SafeGraph data access (for example subscription to Deweydata.org)
 
 # Section 2: Makes publicly share-able reduced .csv dataset file (skip to section 3 if you didn't start at section 1)
 
